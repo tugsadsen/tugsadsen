@@ -5,9 +5,6 @@
 
 ## I'm a Developer and Computer science  student at Turkish German University!!
 
-- 🌱 I’m currently learning iOS Development
-- 🥅 2022 Goals: Find an internship and then get a job as a jr developer
-- ⚡ Fun fact: I like listening to music and doing research.
 
 ### Connect with me:
 
